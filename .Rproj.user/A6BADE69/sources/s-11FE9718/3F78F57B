@@ -1,0 +1,25 @@
+{
+    "id": "3F78F57B",
+    "path": "D:/UnitCostPrediction/outpatient_unit_cost_prediction.R",
+    "project_path": "outpatient_unit_cost_prediction.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607059440591.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "15,40",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607064861,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607064861593,
+    "read_only": false,
+    "read_only_alternatives": []
+}

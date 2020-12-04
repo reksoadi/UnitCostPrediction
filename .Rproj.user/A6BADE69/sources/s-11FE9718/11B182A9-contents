@@ -1,0 +1,5 @@
+library(googledrive)
+drive_download(as_id("1Il2pHCskoKCmTO2KktXq45iYNQ87RVmw"), path = "data/2018_HH_raw.dta", overwrite = T)
+drive_download(as_id("1LWFSQBebBm57txixYbg7FSMSFegpkWYa"), path = "data/2018_ind_raw.dta", overwrite = T)
+drive_download(as_id("1ZFfDRU5xggz35gWOhuNkjdB0737rZG20"), path = "data/kunjunganFKL.rds", overwrite = T)
+drive_download(as_id("1vYK5dVU8kfvtErVMZ26xqzhRqGD2hkwd"), path = "data/peserta.rds", overwrite = T)

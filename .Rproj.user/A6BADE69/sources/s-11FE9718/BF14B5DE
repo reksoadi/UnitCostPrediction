@@ -1,0 +1,25 @@
+{
+    "id": "BF14B5DE",
+    "path": "D:/UnitCostPrediction/inpatient_unit_cost_prediction.R",
+    "project_path": "inpatient_unit_cost_prediction.R",
+    "type": "r_source",
+    "hash": "2146706220",
+    "contents": "",
+    "dirty": false,
+    "created": 1607059446727.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled2",
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607064860,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607064860554,
+    "read_only": false,
+    "read_only_alternatives": []
+}
